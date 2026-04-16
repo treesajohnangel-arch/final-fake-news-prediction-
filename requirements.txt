@@ -1,9 +1,7 @@
 streamlit
-transformers
 torch
-scikit-learn
-pandas
+transformers
 numpy
-plotly
+scikit-learn
 gdown
-safetensors
+lightgbm
